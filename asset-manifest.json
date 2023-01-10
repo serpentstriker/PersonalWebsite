@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9ee3ebd.css",
+    "main.js": "/static/js/main.313b2621.js",
+    "static/media/hero.jpg": "/static/media/hero.3e5e4e7f00fbf5475b7e.jpg",
+    "static/media/machine-learning.png": "/static/media/machine-learning.0f845d3d1f12e976e47b.png",
+    "static/media/solar.png": "/static/media/solar.d3cfd42c6efcb36344f0.png",
+    "static/media/carbon.png": "/static/media/carbon.ae5f3f2843f5289e8cb2.png",
+    "static/media/Agropur_V_RGB.png": "/static/media/Agropur_V_RGB.cb10d411bd9d6a64ba3e.png",
+    "static/media/Michelin_Corporate_Logo___on_blue.jpg": "/static/media/Michelin_Corporate_Logo___on_blue.623cbbb35a348af97ce4.jpg",
+    "static/media/medal.ico": "/static/media/medal.32420e7024cb6a487728.ico",
+    "static/media/gpu-mining.png": "/static/media/gpu-mining.4d6752b7fce3862ba5db.png",
+    "static/media/trophy.ico": "/static/media/trophy.1552c8662dcbe8b90322.ico",
+    "static/media/DAL_LogoVert_RGB_Gold_Wingtip.png": "/static/media/DAL_LogoVert_RGB_Gold_Wingtip.4f5b99e3339f26d22f4e.png",
+    "static/media/robot.jpg": "/static/media/robot.c254b74b4a84a17c3d42.jpg",
+    "static/media/judo.ico": "/static/media/judo.84e57541934275d9551c.ico",
+    "static/media/data.png": "/static/media/data.83a9483beeab21c411db.png",
+    "static/media/graduate.ico": "/static/media/graduate.079cf9e21ae6b42cd899.ico",
+    "index.html": "/index.html",
+    "main.c9ee3ebd.css.map": "/static/css/main.c9ee3ebd.css.map",
+    "main.313b2621.js.map": "/static/js/main.313b2621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ee3ebd.css",
+    "static/js/main.313b2621.js"
+  ]
+}
